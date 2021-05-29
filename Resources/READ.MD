@@ -1,0 +1,3 @@
+hawaii.sqllite
+hawaii_measurements
+hawaii_stations_
